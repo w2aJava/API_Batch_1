@@ -1,5 +1,5 @@
 public class TC_01{
 	public void go(
-			syso(dsfsdfsdf);
+			syso(dsfsdsdf33333);
 			){}
 }
