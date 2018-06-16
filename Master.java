@@ -12,6 +12,6 @@ public void go()
 
 public static void show()
 
-
+System.out.println("Tea");
 
 }
