@@ -1,1 +1,8 @@
-public class Master{}
+public class Master{
+public void go()
+{
+
+}
+
+
+}
