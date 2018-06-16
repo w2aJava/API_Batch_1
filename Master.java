@@ -1,1 +1,6 @@
-public class Master{}
+public class Master{
+
+public static void show()
+
+
+}
